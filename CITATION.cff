@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this evidence report, please cite it as below."
+title: "HOMI evidence report: certified results and verification cards"
+type: dataset
+version: 1.0.0
+date-released: 2026-10-26
+license: CC-BY-4.0
+authors:
+  - family-names: Tom
+    given-names: Alphin
+    affiliation: "Mycel UG (haftungsbeschränkt)"
+keywords:
+  - autonomous science
+  - experiment planning
+  - verification
+  - AI agents
+  - negative results
+preferred-citation:
+  type: report
+  title: "HOMI evidence report: certified results and verification cards"
+  version: 1.0.0
+  month: 10
+  year: 2026
+  authors:
+    - name: "Mycel UG (haftungsbeschränkt)"
+  publisher:
+    name: "Mycel UG (haftungsbeschränkt)"

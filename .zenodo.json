@@ -1,0 +1,35 @@
+{
+  "title": "HOMI evidence report: certified results and verification cards",
+  "upload_type": "dataset",
+  "version": "1.0.0",
+  "publication_date": "2026-10-26",
+  "license": "cc-by-4.0",
+  "access_right": "open",
+  "language": "eng",
+  "creators": [
+    {
+      "name": "Tom, Alphin",
+      "affiliation": "Mycel UG (haftungsbeschränkt)"
+    }
+  ],
+  "description": "<p>Certified results of HOMI SDK 1.5.3 (D0, D1, D2, D3a, D3b, D3c and the release checker) and one development pilot, with how each result was verified, every failed or stopped run behind them, the limitations, and SHA-256 commitments to the sealed evidence. The pack reports what was achieved and how it was checked. It does not describe how HOMI's methods work.</p><p>Cite as: Mycel UG (haftungsbeschränkt), \"HOMI evidence report: certified results and verification cards\", v1.0.0, Oct 2026.</p>",
+  "keywords": [
+    "autonomous science",
+    "experiment planning",
+    "verification",
+    "AI agents",
+    "negative results"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "10.1038/s41586-021-03213-y",
+      "relation": "references",
+      "scheme": "doi"
+    },
+    {
+      "identifier": "10.1126/science.1259203",
+      "relation": "references",
+      "scheme": "doi"
+    }
+  ]
+}
