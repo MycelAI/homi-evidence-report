@@ -3,7 +3,7 @@ message: "If you use this evidence report, please cite it as below."
 title: "HOMI evidence report: certified results and verification cards"
 type: dataset
 version: 1.0.0
-date-released: 2026-10-26
+date-released: 2026-10-25
 license: CC-BY-4.0
 authors:
   - family-names: Tom
